@@ -20,5 +20,9 @@
 			"Name": "SoundUtilities",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditor"
 	]
 }
